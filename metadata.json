@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of L'Art Culinaire - Interactive Restaurant Platform",
+  "description": "A comprehensive restaurant management and customer experience platform with AI-powered menu recommendations, reservation systems, and real-time dashboard analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
